@@ -91,23 +91,7 @@ FROM
 	sleep_day
 ),
 
--- 4. WEIGHT LOG INFO --
-new_weight_loginfo AS 
-(
-SELECT
-	ID AS Id, 
-	CONVERT(date, Date) AS Date,
-	ROUND(WeightKg, 2) AS WeightKg,
-	ROUND(BMI, 2) AS BMI,
-	LogId,
-	CASE WHEN IsManualReport = 1 THEN 'YES'		
-		 WHEN IsManualReport = 0 THEN 'NO'
-	END AS ManualReport
-FROM
-	weight_loginfo
-),
-
--- 5. HOUR INTENSITIES -- 
+-- 4. HOUR INTENSITIES -- 
 
 hour_intensities AS (
 SELECT DISTINCT 

@@ -1,11 +1,9 @@
 # bellabeat-project
 
-Data Cleaning and Visualization Project:
 This repository contains the code and documentation for my Data Cleaning and Visualization Project, focusing on Bellabeat, 
 a prominent smart device company. The project aims to leverage SQL and Tableau to analyze and visualize data, 
 providing valuable insights and recommendations.
 
-Project Overview:
 Bellabeat is dedicated to empowering women with data-driven insights and offers wellness-oriented wearable devices. 
 In this project, I utilized SQL and Tableau to clean, analyze, and visualize Bellabeat's data, 
 with the goal of uncovering meaningful insights and providing actionable recommendations.
@@ -34,11 +32,10 @@ hour_calories.csv: This file is a CSV file that contains hourly calorie data cap
                     It include information about calorie expenditure throughout the day, providing insights into energy consumption patterns.
 
 
-Results and Findings:
 The project's analysis and visualizations reveal valuable insights into user behavior, product usage, and customer preferences. 
 These findings can guide Bellabeat in enhancing their product offerings, improving user experiences, and identifying growth opportunities.
 
-Contributing:
+
 Contributions to this project are welcome. Feel free to fork the repository and submit pull requests with any improvements or additional features.
 
 License:

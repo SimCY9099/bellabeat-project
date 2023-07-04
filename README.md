@@ -36,8 +36,11 @@ These findings can guide Bellabeat in enhancing their product offerings, improvi
 
 Contributions to this project are welcome. Feel free to fork the repository and submit pull requests with any improvements or additional features.
 
-License:
+## License:
 This project is licensed under the MIT License.
+
+## Source:
+https://bellabeat.com/journal/
 
 Feel free to customize and expand upon this README file to provide more specific details about your project, 
 including installation instructions, dependencies, and any additional resources or acknowledgments.

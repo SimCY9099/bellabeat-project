@@ -9,8 +9,6 @@ In this project, I utilized SQL and Tableau to clean, analyze, and visualize Bel
 with the goal of uncovering meaningful insights and providing actionable recommendations.
 
 ## Project Contents:
-Bellabeat Dashboard.png: This file is a image of the Bellabeat dashboard created using Tableau. 
-                         It showcases the interactive visualizations and insights derived from the data analysis.
 
 Bellabeat PowerPoint.pptx: This file is a PowerPoint presentation that summarizes the key findings and recommendations from the Bellabeat data analysis project. 
                            It includes visualizations, explanations, and insights to communicate the results effectively.

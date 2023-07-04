@@ -8,7 +8,7 @@ Bellabeat is dedicated to empowering women with data-driven insights and offers 
 In this project, I utilized SQL and Tableau to clean, analyze, and visualize Bellabeat's data, 
 with the goal of uncovering meaningful insights and providing actionable recommendations.
 
-Project Contents:
+## Project Contents:
 Bellabeat Dashboard.png: This file is a image of the Bellabeat dashboard created using Tableau. 
                          It showcases the interactive visualizations and insights derived from the data analysis.
 

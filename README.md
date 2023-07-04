@@ -1,4 +1,4 @@
-# bellabeat-project
+# Bellabeat Project
 
 This repository contains the code and documentation for my Data Cleaning and Visualization Project, focusing on Bellabeat, 
 a prominent smart device company. The project aims to leverage SQL and Tableau to analyze and visualize data, 
